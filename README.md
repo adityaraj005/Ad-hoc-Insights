@@ -31,7 +31,7 @@ To crack this challenge, I worked with:
 ## 🔥 The Results: What Did We Uncover?  
 
 Instead of listing every SQL query, I compiled the findings into two powerful resources:  
-📽 **Video Walkthrough** – Explaining each request, insights, and business impact. [Watch Here](#)  
+📽 **Video Walkthrough** – Explaining each request, insights, and business impact. [Watch Here](https://youtu.be/4hBSVMWgS-o?feature=shared)  
 📄 **Presentation PDF** – A structured document with all answers and insights. [View Here](#)  
 
 ## 💡 Why Should This Matter to You?  
