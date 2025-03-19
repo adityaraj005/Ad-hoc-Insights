@@ -9,7 +9,7 @@ Decisions were based on gut feelings rather than solid data. **That had to chang
 ## 🚀 The Challenge: Can Data Unlock Business Potential?  
 
 Tony Sharma, **Director of Data Analytics,** saw the gap. To fix it, he designed a **real-world SQL challenge** to find someone who could:  
-- 🧩 **Extract critical insights** from raw [business data](https://github.com/adityaraj005/Ad-hoc-Insights/tree/45077b9940fcc7f4e68e31ff2effaebbb33d1e69/Datasets).  
+- 🧩 **Extract critical insights** from raw business data.  
 - 📊 [**Answer 10 urgent business questions**](https://github.com/adityaraj005/Ad-hoc-Insights/blob/45077b9940fcc7f4e68e31ff2effaebbb33d1e69/ad-hoc-requests.pdf) using SQL.  
 - 🎯 **Present data in a way that drives decisions.**  
 
